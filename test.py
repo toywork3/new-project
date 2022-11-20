@@ -6,5 +6,3 @@ else:
     print('Ok. Все верно!')
 
 a = int(input('Сколько лет'))
-if a > 18:
-    print(a)
