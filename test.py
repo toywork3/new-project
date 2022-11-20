@@ -5,7 +5,9 @@ if name == 'Алеша':
 elif name == 'Витя':
     print('УРа')
 else:
-    print('Ok')
-
+    print('Ok. Все верно!')
 print('Конфликт')
+
+print(name)
+a = int(input('Сколько лет'))
 
