@@ -5,3 +5,5 @@ if name == 'Алеша':
 else:
     print('Ok')
 print(name)
+a = int(input('Сколько лет'))
+
