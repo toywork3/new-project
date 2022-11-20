@@ -4,5 +4,5 @@ if name == 'Алеша':
     print('(((')
 else:
     print('Ok. Все верно!')
-print(name)
+
 a = int(input('Сколько лет'))
