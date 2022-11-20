@@ -4,3 +4,4 @@ if name == 'Алеша':
     print('(((')
 else:
     print('Ok')
+print(name)
